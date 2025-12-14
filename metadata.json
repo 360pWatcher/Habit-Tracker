@@ -1,0 +1,5 @@
+{
+  "name": "Orbit Habits",
+  "description": "A privacy-focused, offline-first habit tracker with an optional AI coach powered by Gemini. Track streaks, visualize progress, and get personalized insights.",
+  "requestFramePermissions": []
+}
